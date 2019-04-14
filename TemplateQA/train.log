@@ -1,0 +1,19 @@
+2019-04-06 10:30:41,979 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:33:31,867 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:37:51,451 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:37:54,333 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 10:39:21,001 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:39:23,834 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 10:41:18,165 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:41:21,035 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 10:42:43,669 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 10:42:46,524 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 12:15:12,518 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 12:15:15,279 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 12:17:28,631 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 12:17:31,760 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 12:18:26,716 - train.log - INFO - Created model with fresh parameters.
+2019-04-06 12:18:29,557 - train.log - INFO - Load pre-trained embedding.
+2019-04-06 12:56:31,024 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-04-06 13:03:51,828 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-04-06 16:13:19,361 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
